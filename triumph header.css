@@ -1,0 +1,27 @@
+           .logo{
+        background: left;
+        display: flex;
+        padding: cover;
+    } 
+            nav {
+    border-bottom: 4px solid black;  
+    border-style:initial;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.crumbs ol {
+    list-style-type:none;
+    padding-left: 19;
+}
+
+.crumb {
+    display:inline-flex;
+}
+
+.crumb a::after {
+    display: inline-flex;
+    color: #000;
+    font-size: 80%;
+    font-weight: bold;
+    padding: 3 3px;

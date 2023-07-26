@@ -1,0 +1,17 @@
+body {
+    background-image: url('bgg.jpg');
+               background-repeat: no-repeat;
+               background-size: cover;
+  }
+  h1 {
+    color: blue;
+  }
+  h2{
+    color: white;   
+  }
+  ol{
+    color:rgb(2, 2, 2)
+  }
+  p {
+    color: red;
+  }
